@@ -1,4 +1,6 @@
 docker-compose.yml
-data
-lib
+data/*
+lib/*
+
+!.gitkeep
 
