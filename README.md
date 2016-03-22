@@ -8,6 +8,8 @@ process on the web server.
 
 ## Usage
 
+> Before using `docker-compose` commands, copy `docker-compose.example.yml` to `docker-compose.yml`.
+
 * Create a certificate using [manual domain verification](https://letsencrypt.readthedocs.org/en/latest/using.html#manual)
 
 ```bash
@@ -37,4 +39,4 @@ docker run -it --rm --entrypoint /bin/bash letsencrypt
 
 ## Questions about the [Let's Encrypt](https://letsencrypt.org) client?
 
-The full documentation can be found at [Read the Docs](https://letsencrypt.readthedocs.org/en/latest/intro.html)
+The full documentation can be found at [Read the Docs](https://letsencrypt.readthedocs.org/en/latest/intro.html).
