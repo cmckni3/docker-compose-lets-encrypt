@@ -8,7 +8,7 @@ process on the web server.
 
 ## Usage
 
-> Recommended creating a `docker-compose.override.yml` to override any options in the `docker-compose.yml` service
+> Recommend creating a `docker-compose.override.yml` to override any options in the `docker-compose.yml` service
 
 * Create a certificate using [manual domain verification](https://letsencrypt.readthedocs.org/en/latest/using.html#manual)
 
